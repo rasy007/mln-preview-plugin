@@ -1,0 +1,22 @@
+MLN Lua UI Preview Plugin - Proprietary License
+
+Copyright (c) 2026 MLN Preview (rasy007@sina.com)
+
+All rights reserved.
+
+This software is provided as-is for personal and commercial use within
+JetBrains IDEs. You may install and use this plugin free of charge.
+
+You may NOT:
+- Redistribute, sublicense, or sell copies of this plugin
+- Reverse engineer, decompile, or disassemble this plugin
+- Modify or create derivative works based on this plugin
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+---
+Lua logo used in this plugin:
+Copyright (c) 1998 Lua.org, graphic design by Alexandre Nakonechnyj.
+Used under the terms specified at https://www.lua.org/images/
